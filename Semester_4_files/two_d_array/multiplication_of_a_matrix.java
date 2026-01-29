@@ -47,6 +47,5 @@ public class multiplication_of_a_matrix {
             }
             System.out.println();
         }
-// ihiubhbihbhi
     }
 }
