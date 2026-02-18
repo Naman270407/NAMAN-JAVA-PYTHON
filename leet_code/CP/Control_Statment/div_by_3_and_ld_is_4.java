@@ -1,6 +1,6 @@
 // check if a number is divisible by 3 and last digit is 4.
 
-package CP.Control_Statment;
+package leet_code.CP.Control_Statment;
 
 
 import java.util.Scanner;

@@ -1,6 +1,6 @@
 // read a number check if a number is divisible by 7 or large digit is 5.
 
-package CP.Control_Statment;
+package leet_code.CP.Control_Statment;
 
 import java.util.Scanner;
 

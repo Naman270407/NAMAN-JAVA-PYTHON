@@ -1,4 +1,4 @@
-package CP.Control_Statment;
+package leet_code.CP.Control_Statment;
 
 import java.util.Scanner;
 
