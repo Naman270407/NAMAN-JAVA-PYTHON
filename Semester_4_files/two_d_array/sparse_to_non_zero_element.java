@@ -49,3 +49,8 @@ public class sparse_to_non_zero_element {
         }
     }
 }
+
+//                   total row   total column     total non zero                  3 3 3
+// 0 0 1             row no.       col no.         non zero element       --->    0 2 1
+// 0 2 0     --->     ,,              ,,               ,,                         1 1 2
+// 3 0 0               ,,             ,,                 ,,                       2 0 3
