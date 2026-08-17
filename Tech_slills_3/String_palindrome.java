@@ -1,6 +1,7 @@
-package JAVA_PRG.Stringsss;
+package Tech_slills_3;
+
 import java.util.Scanner;
-public class String_palindrom {
+public class String_palindrome {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String str = new String();
@@ -8,7 +9,7 @@ public class String_palindrom {
         str = sc.nextLine();
         int i = 0;
         int j = str.length() - 1;
-      boolean ispalindrom = true;
+        boolean ispalindrom = true;
         while(i<j && ispalindrom == true)
             {
             if(str.charAt(i)!=str.charAt(j))

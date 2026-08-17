@@ -11,11 +11,11 @@
 # Sample Input 
 # 6 
 # 1 5 7 -1 5 3 
-# 6 
+# 6
 # Sample Output 
-# 3 
-# Explanation 
-# Pairs are: (1,5), (1,5), (7,-1). → Total 3 pairs. 
+# 3
+# Explanation
+# Pairs are: (1,5), (1,5), (7,-1). → Total 3 pairs.
 
 
 n = int(input())
